@@ -38,7 +38,7 @@
     }
 
     function openDiscord() {
-        window.open('https://discord.gg/6gGuwW25gq', '_blank');
+        window.open('https://discord.gg/XkSjusTkWA', '_blank');
     }
 
     function toggleButtonColor(button, toggled) {
