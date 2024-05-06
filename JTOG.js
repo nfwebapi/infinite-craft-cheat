@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         JTOG V1
+// @name         JTOG V3
 // @namespace    http://tampermonkey.net/
 // @version      3.2
 // @description  New Version With Custom API implementation
